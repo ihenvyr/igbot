@@ -1,0 +1,24 @@
+{
+  "name": "igbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihenvyr/igbot.git"
+  },
+  "keywords": [],
+  "author": "Henry C. Cruz <ihenvyr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ihenvyr/igbot/issues"
+  },
+  "homepage": "https://github.com/ihenvyr/igbot#readme",
+  "dependencies": {
+    "express": "4.17.1",
+    "scraper-instagram": "1.0.12"
+  }
+}
